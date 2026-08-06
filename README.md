@@ -40,4 +40,5 @@ This portfolio grows one project at a time, in order of depth rather than breadt
 
 ## Contact
 
-*(Add your preferred contact method / Upwork or LinkedIn link here.)*
+- [ ] [LinkedIn](https://www.linkedin.com/in/sahraouiyounes/)
+- [ ] [Email](mailto:younes.sah06@gmail.com)
